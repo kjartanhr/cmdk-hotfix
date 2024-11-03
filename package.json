@@ -1,5 +1,5 @@
 {
-  "name": "cmdk-root",
+  "name": "@spaugur/cmdk-hotfix",
   "private": true,
   "scripts": {
     "build": "pnpm -F cmdk build",
