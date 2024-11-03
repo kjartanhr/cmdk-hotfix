@@ -1,6 +1,7 @@
 {
   "name": "@spaugur/cmdk-hotfix",
-  "private": true,
+  "private": false,
+  "version": "0.0.1",
   "scripts": {
     "build": "pnpm -F cmdk build",
     "dev": "pnpm -F cmdk build --watch",
